@@ -13,8 +13,8 @@
 #define MAX6675_SO  5
 
 // LCD I2C
-#define LCD_SDA 21
-#define LCD_SCL 22
+#define LCD_SDA 22
+#define LCD_SCL 21
 
 // Buttons
 #define BUTTON_UP     32
