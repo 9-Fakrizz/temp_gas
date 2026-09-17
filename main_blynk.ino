@@ -45,12 +45,16 @@
 // BLYNK CONFIGURATION
 // ==========================================================
 
-#define BLYNK_TEMPLATE_ID   "YOUR_TEMPLATE_ID"
-#define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"
-#define BLYNK_AUTH_TOKEN    "YOUR_AUTH_TOKEN"
+// #define BLYNK_TEMPLATE_ID   "YOUR_TEMPLATE_ID"
+// #define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"
+// #define BLYNK_AUTH_TOKEN    "YOUR_AUTH_TOKEN"
 
-char ssid[] = "YOUR_WIFI_NAME";
-char pass[] = "YOUR_WIFI_PASSWORD";
+#define BLYNK_TEMPLATE_ID "TMPL6zEISlvaE"
+#define BLYNK_TEMPLATE_NAME "tempgas"
+#define BLYNK_AUTH_TOKEN "U_6ggbF92Y-i8df8qRLRN_rFzzO1eIx3"
+
+char ssid[] = "Ok";
+char pass[] = "q12345678";
 
 
 // ==========================================================
